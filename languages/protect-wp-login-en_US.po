@@ -1,0 +1,84 @@
+# English translations for the Protect WP Login plugin
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Protect WP Login 1.0\n"
+"PO-Revision-Date: 2024-09-20\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+
+msgid "Protects wp-login.php with additional authentication."
+msgstr "Protects wp-login.php with additional authentication."
+
+msgid "Protect WP Login"
+msgstr "Protect WP Login"
+
+msgid "Login Credentials Generated"
+msgstr "Login Credentials Generated"
+
+msgid "Username:"
+msgstr "Username:"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Important:"
+msgstr "Important:"
+
+msgid "Please note these credentials now. Once this message disappears, you won’t be able to view them again."
+msgstr "Please note these credentials now. Once this message disappears, you won’t be able to view them again."
+
+msgid "You can create your own usernames and passwords."
+msgstr "You can create your own usernames and passwords."
+
+msgid "Unable to initialize the file system. Please check your permissions."
+msgstr "Unable to initialize the file system. Please check your permissions."
+
+msgid "User successfully deleted."
+msgstr "User successfully deleted."
+
+msgid "Error deleting user."
+msgstr "Error deleting user."
+
+msgid "Cannot delete the last user. There must be at least one user."
+msgstr "Cannot delete the last user. There must be at least one user."
+
+msgid "Please select a user to delete."
+msgstr "Please select a user to delete."
+
+msgid "This username already exists, please choose another one."
+msgstr "This username already exists, please choose another one."
+
+msgid "Please enter a username and password."
+msgstr "Please enter a username and password."
+
+msgid "User successfully added."
+msgstr "User successfully added."
+
+msgid "Error writing to the password file."
+msgstr "Error writing to the password file."
+
+msgid "Cannot write to the password file. Please check the permissions."
+msgstr "Cannot write to the password file. Please check the permissions."
+
+msgid "Add New User"
+msgstr "Add New User"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Existing Users"
+msgstr "Existing Users"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Note: There will always be at least 1 username. There is no maximum limit on users."
+msgstr "Note: There will always be at least 1 username. There is no maximum limit on users."
